@@ -1,0 +1,61 @@
+# Build & Publish
+bin/
+obj/
+out/
+Debug/
+Release/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VSCode
+.vscode/
+.history/
+*.code-workspace
+
+# Rider
+.idea/
+
+# Logs
+*.log
+logs/
+log/
+
+# Temp
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swn
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Entity Framework
+# Keep migrations so schema can be rebuilt
+# (do NOT ignore the Migrations folder)
+
+# Databases
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Secrets
+appsettings.Production.json
+appsettings.Local.json
+secrets.json
+
+# npm / frontend
+node_modules/
+dist/
