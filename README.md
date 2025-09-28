@@ -136,21 +136,21 @@ Administrators can manage doctors, procedures, and view statistics.
 #### Register
 ![Register](docs/screenshots/client/register.png)
 
-#### Profile
-![Profile](docs/screenshots/client/profile.png)
-
 #### Booking
 ![Booking](docs/screenshots/client/booking.png)
 
 #### My Bookings
 ![My Bookings](docs/screenshots/client/mybookings.png)
 
+#### Profile
+![Profile](docs/screenshots/client/profile.png)
+
 ---
 
 ### Admin Area
 
-#### Bookings
-![Admin Bookings](docs/screenshots/admin/bookings.png)
+#### Reports
+![Admin Reports](docs/screenshots/admin/reports.png)
 
 #### Doctors
 ![Admin Doctors](docs/screenshots/admin/doctors.png)
@@ -158,5 +158,8 @@ Administrators can manage doctors, procedures, and view statistics.
 #### Procedures
 ![Admin Procedures](docs/screenshots/admin/procedures.png)
 
-#### Reports
-![Admin Reports](docs/screenshots/admin/reports.png)
+#### Bookings
+![Admin Bookings](docs/screenshots/admin/bookings.png)
+
+
+
