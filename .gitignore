@@ -85,6 +85,9 @@ Thumbs.db
 *.sqlite
 *.mdf
 *.ldf
+*.db-shm
+*.db-wal
+*.db-journal
 
 # Secrets
 appsettings.Production.json
